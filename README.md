@@ -23,7 +23,7 @@ Supports CSV file upload (PDF is currently a placeholder for future enhancement)
 
 Clone the repository:
 
-git clone https://github.com/username/projectmind-ai.git
+git clone https://github.com/Priskaaitn/projectmind-ai.git
 cd projectmind-ai
 
 
