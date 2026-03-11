@@ -1,0 +1,35 @@
+body {
+    background-color: #8AAEE0;
+}
+
+h1 {
+    color: #8AAEE0;
+}
+
+.stMetric {
+    background-color:#8AAEE0;
+    padding:15px;
+    border-radius:10px;
+    box-shadow:0px 2px 5px rgba(0,0,0,0.1);
+}
+
+[data-testid="stSidebar"] {
+    background-color: #8AAEE0;
+}
+
+[data-testid="stSidebar"] * {
+    color: #000000 !important;
+}
+
+[data-testid="stSidebar"] .stRadio label {
+    color: #000000 !important;
+}
+
+[data-testid="stSidebar"] .stAlert {
+    background-color: rgba(255,255,255,0.2);
+    border: 1px solid rgba(0,0,0,0.2);
+}
+
+[data-testid="stSidebar"] hr {
+    border-color: rgba(0,0,0,0.2);
+}
